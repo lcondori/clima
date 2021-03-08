@@ -66,7 +66,7 @@ function consultarAPI(ciudad, pais){
 }
 
 function kelvinACentigrados(grados){
-    return parseInt(grados - 273.15)
+    return parseInt(grados - 273.150)
 }
 
 
